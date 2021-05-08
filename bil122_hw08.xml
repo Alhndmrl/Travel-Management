@@ -1,0 +1,265 @@
+﻿<?xml version="1.0"?>
+<Araclar>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>34BİL122</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ahmet Uzunyol</Adi>
+                <Yasi>43</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Mehmet Sollamaz</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Ayşe Çokgezer</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Sefa Camkenarı</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>İzmir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Fatma İndiBindi</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Gebze</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP11</Plaka>
+        <OzluSoz>Al yazmalım</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Mert Derttaşır</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>40</Agirlik>
+                <Hacim>30</Hacim>
+                <Alici>Ferhat Gurmeoğlu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>33HY102</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>İsaac Newton</Adi >
+                <Yasi>52</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Nikola Tesla</Adi>
+                <BinisNoktasi>Kopernik</BinisNoktasi>
+                <InisNoktasi>Venüs</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>33FB1907</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Graham Bell</Adi>
+                <Yasi>68</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi></Adi>
+                <BinisNoktasi></BinisNoktasi>
+                <InisNoktasi></InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>33AD1999</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Alex De Souza</Adi>
+                <Yasi>39</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Mateja Kezman</Adi>
+                <Yasi>41</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Thomas Edison</Adi>
+                <BinisNoktasi>Kadıköy</BinisNoktasi>
+                <InisNoktasi>Beşiktaş</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>33TR51</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Diego Lugano</Adi>
+                <Yasi>43</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Nani</Adi>
+                <Yasi>35</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi></Adi>
+                <BinisNoktasi></BinisNoktasi>
+                <InisNoktasi></InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>18UY15</Plaka>
+        <OzluSoz>Mavi Gözlüm</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Alihan Demirel</Adi>
+                <Yasi>42</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+         <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>40</Agirlik>
+                <Hacim>30</Hacim>
+                <Alici>Ferhat Gurmeoğlu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Kars Peyniri</Icerik>
+                <Agirlik>80</Agirlik>
+                <Hacim>40</Hacim>
+                <Alici>Ferhat Göçer</Alici>
+                <BinisNoktasi>Karss</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+     <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>06ATA1938</Plaka>
+        <OzluSoz>Kahramanlık</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>İSmet İnönü</Adi>
+                <Yasi>69</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Fevzi Çakmak</Adi>
+                <Yasi>61</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Ordu</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>1000</Hacim>
+                <Alici>Mustafa Kemal Atatürk</Alici>
+                <BinisNoktasi>Ağrı</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+     <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>33MİY25</Plaka>
+        <OzluSoz>Şampiyon</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi></Adi>
+                <Yasi>0</Yasi>
+                <EhliyetSinifi></EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Ordu</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>1000</Hacim>
+                <Alici>Futbolcular</Alici>
+                <BinisNoktasi>Ağrı</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>33SS45</Plaka>
+        <OzluSoz>Film</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi></Adi>
+                <Yasi>64</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Elma</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>1000</Hacim>
+                <Alici>Amasya Valisi</Alici>
+                <BinisNoktasi>Amasya</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Armut</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>1000</Hacim>
+                <Alici>Futbolcular</Alici>
+                <BinisNoktasi>Niğde</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Muz</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>1000</Hacim>
+                <Alici>Futbolcular</Alici>
+                <BinisNoktasi>Anamur</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>Portakal</Icerik>
+                <Agirlik>5000</Agirlik>
+                <Hacim>1000</Hacim>
+                <Alici>Futbolcular</Alici>
+                <BinisNoktasi>Mersin</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+</Araclar>
